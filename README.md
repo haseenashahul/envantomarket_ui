@@ -1,12 +1,48 @@
-# React + Vite
+# EnvatoMarket UI - Cake & Bake
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A responsive and modern React-based UI for a cake and bakery-themed website.  
+Built using **React**, **Vite**, and **custom CSS**, this frontend is designed for smooth navigation, clean layout, and a delicious user experience.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
 
-## Expanding the ESLint configuration
+-  Beautiful, responsive design
+-  Home page with banners and product previews
+-  Navigation bar and sidebar
+-  Image assets for cakes, cupcakes, and more
+-  Built with Vite for fast development
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+##  Tech Stack
+
+- React
+- Vite
+- CSS
+- JavaScript
+
+---
+
+##  Folder Structure
+
+envatomarket/
+├── public/
+├── src/
+│ ├── assets/
+│ ├── components/
+│ ├── App.jsx
+│ └── main.jsx
+├── .gitignore
+├── index.html
+├── package.json
+└── vite.config.js
+
+##  Install Dependencies
+npm install
+
+## Run the Project
+npm run dev
+
+## Open your browser and go to:
+👉 http://localhost:5173
